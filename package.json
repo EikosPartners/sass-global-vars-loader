@@ -1,0 +1,23 @@
+{
+  "name": "sass-global-vars-loader",
+  "version": "0.0.1",
+  "description": "global vars loader for sass / webpack ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EikosPartners/sass-global-vars-loader.git"
+  },
+  "keywords": [
+    "sass",
+    "webpack"
+  ],
+  "author": "Erica Gucciardo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EikosPartners/sass-global-vars-loader/issues"
+  },
+  "homepage": "https://github.com/EikosPartners/sass-global-vars-loader#readme"
+}
